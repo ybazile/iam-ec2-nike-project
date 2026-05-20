@@ -96,7 +96,7 @@ Below are the screenshots documenting each step of the AWS IAM + EC2 Nike scenar
 ---
 
 ### **1. EC2 Instance Tags (Development Instance)**
-![Development Instance Tags](screenshots/screenshot1.jpeg)
+![Development Instance Tags](Screenshots/screenshot1.jpeg)
 
 ### **2. EC2 Instance Tags (Production Instance)**
 ![Production Instance Tags](screenshots/screenshot2.jpeg)
